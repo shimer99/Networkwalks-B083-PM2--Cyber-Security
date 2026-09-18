@@ -18,9 +18,7 @@ A cybersecurity reconnaissance and network auditing project documenting passive/
 - [Phase 1: External Footprinting (`networkwalks.com`)](#-phase-1-external-footprinting-networkwalkscom)
 - [Phase 2: Local Subnet Discovery (`192.168.0.0/24`)](#-phase-2-local-subnet-discovery-1921680024)
 - [Key Findings & Summary Table](#-key-findings--summary-table)
-- [Repository Structure](#-repository-structure)
-- [How to Reproduce](#-how-to-reproduce)
-- [Disclaimer](#-disclaimer)
+  
 
 ---
 
