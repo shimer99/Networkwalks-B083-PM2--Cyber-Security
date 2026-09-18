@@ -1,4 +1,3 @@
-[github_readme.md](https://github.com/user-attachments/files/32383721/github_readme.md)
 # Networkwalks-B083-PM2--Cyber-Security
 
 # 🛡️ Cybersecurity Assessment: External Footprinting & Subnet Scanning
@@ -114,5 +113,7 @@ The radial topology exported from Zenmap confirms `localhost` (`192.168.0.101`) 
 
 ---
 
-
+# Author 
+Mohamed Rafeek Mohamed Shimer
+Linked in: www.linkedin.com/in/rafeek-shimer
 
